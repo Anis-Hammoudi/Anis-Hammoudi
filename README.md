@@ -18,7 +18,10 @@ I am a Full Stack Cloud engineer focused on building scalable distributed system
 **Frameworks & Backend**
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Databases**
+![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%234053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -34,16 +37,6 @@ I am a Full Stack Cloud engineer focused on building scalable distributed system
 | **[KubeGarden](https://github.com/Anis-Hammoudi/KubeGarden)** | **A Gamified Kubernetes Visualizer.** <br> Transforms your cluster into a living garden where Pods are plants and Nodes are trees. Features real-time updates via WebSockets and thread-safe state management. | `Go` `Client-Go` `React` `WebSockets` |
 | **[StudyBuddy](https://github.com/Anis-Hammoudi/StudyBuddy)** | **Collaborative Study Platform.** <br> A complete ecosystem for students with virtual study rooms, Pomodoro timers, and real-time chat. Built with a clean microservices-ready architecture. | `Spring Boot` `Angular` `PostgreSQL` `Railway` |
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anis-Hammoudi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anis-Hammoudi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
-</div>
-
----
 
 ### Connect with Me
 
