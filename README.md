@@ -34,8 +34,8 @@ I am a Full Stack Cloud ( AWS SAA certified )  developer focused on building sca
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
-| **[KubeGarden](https://github.com/Anis-Hammoudi/KubeGarden)** | **A Gamified Kubernetes Visualizer.** <br> Transforms your cluster into a living garden where Pods are plants and Nodes are trees. Features real-time updates via WebSockets and thread-safe state management. | `Go` `Client-Go` `React` `WebSockets` |
-| **[StudyBuddy](https://github.com/Anis-Hammoudi/StudyBuddy)** | **Collaborative Study Platform.** <br> A complete ecosystem for students with virtual study rooms, Pomodoro timers, and real-time chat. Built with a clean microservices-ready architecture. | `Spring Boot` `Angular` `PostgreSQL` `Railway` |
+| **[KubeGarden](https://github.com/lecafecloud/KubeGarden)** | **A Gamified Kubernetes Visualizer.** <br> Transforms your cluster into a living garden where Pods are plants and Nodes are trees. Features real-time updates via WebSockets and thread-safe state management. | `Go` `Client-Go` `React` `WebSockets` |
+| **[StudyBuddy](https://github.com/Arromatizey/BigStiddyBiddyRegrouped)** | **Collaborative Study Platform.** <br> A complete ecosystem for students with virtual study rooms, Pomodoro timers, and real-time chat. Built with a clean microservices-ready architecture. | `Spring Boot` `Angular` `PostgreSQL` `Railway` |
 
 
 ### Connect with Me
