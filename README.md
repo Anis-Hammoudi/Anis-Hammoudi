@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Anis Hammoudi
 
-<!--
-**Anis-Hammoudi/Anis-Hammoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AWS Certified Solutions Architect | Go & Java Specialist
 
-Here are some ideas to get you started:
+I am a Full Stack Cloud engineer focused on building scalable distributed systems. My passion lies in bridging the gap between robust enterprise architecture and modern cloud-native visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Based in Auvergne-Rhône-Alpes**
+
+---
+
+### Tech Stack
+
+**Languages**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frameworks & Backend**
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Featured Projects
+
+| **Project** | **Description** | **Tech** |
+| :--- | :--- | :--- |
+| **[KubeGarden](https://github.com/Anis-Hammoudi/KubeGarden)** | **A Gamified Kubernetes Visualizer.** <br> Transforms your cluster into a living garden where Pods are plants and Nodes are trees. Features real-time updates via WebSockets and thread-safe state management. | `Go` `Client-Go` `React` `WebSockets` |
+| **[StudyBuddy](https://github.com/Anis-Hammoudi/StudyBuddy)** | **Collaborative Study Platform.** <br> A complete ecosystem for students with virtual study rooms, Pomodoro timers, and real-time chat. Built with a clean microservices-ready architecture. | `Spring Boot` `Angular` `PostgreSQL` `Railway` |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anis-Hammoudi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anis-Hammoudi&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### Connect with Me
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/anis-hammoudi">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
