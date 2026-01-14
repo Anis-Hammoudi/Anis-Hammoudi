@@ -40,6 +40,6 @@ I am a Full Stack Cloud ( AWS SAA certified )  developer focused on building sca
 
 ### Connect with Me
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/anis-hammoudi">
+<a href="https://www.linkedin.com/in/anis-hammoudi">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
