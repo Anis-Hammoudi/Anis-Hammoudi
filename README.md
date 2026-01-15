@@ -2,7 +2,7 @@
 
 ### Developer | Go & Java
 
-I am a Full Stack Cloud ( AWS SAA certified )  developer focused on building scalable distributed systems. My passion lies in bridging the gap between robust enterprise architecture and modern cloud-native visualization.
+Full Stack Cloud ( AWS SAA certified ) developer.
 
 **Based in Auvergne-Rhône-Alpes**
 
