@@ -18,9 +18,11 @@ Full Stack Cloud ( AWS SAA certified ) developer.
 **Frameworks & Backend**
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases**
 ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234053D6.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 **Cloud & DevOps**
@@ -34,9 +36,9 @@ Full Stack Cloud ( AWS SAA certified ) developer.
 
 | **Project** | **Description** | **Tech** |
 | :--- | :--- | :--- |
+| **[InfluScope](https://github.com/Anis-Hammoudi/influScope)** | **Distributed Influencer Search Engine.** <br> A production-grade ingestion pipeline deployed on AWS EKS. Features event-driven architecture (RabbitMQ), synchronous gRPC enrichment, and persistent storage with StatefulSets. | `Go` `AWS EKS` `RabbitMQ` `Elasticsearch` |
 | **[KubeGarden](https://github.com/lecafecloud/KubeGarden)** | **A Gamified Kubernetes Visualizer.** <br> Transforms your cluster into a living garden where Pods are plants and Nodes are trees. Features real-time updates via WebSockets and thread-safe state management. | `Go` `Client-Go` `React` `WebSockets` |
 | **[StudyBuddy](https://github.com/Arromatizey/BigStiddyBiddyRegrouped)** | **Collaborative Study Platform.** <br> A complete ecosystem for students with virtual study rooms, Pomodoro timers, and real-time chat. Built with a clean microservices-ready architecture. | `Spring Boot` `Angular` `PostgreSQL` `Railway` |
-
 
 ### Connect with Me
 
