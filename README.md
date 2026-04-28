@@ -2,7 +2,7 @@
 
 ### Developer | Go & Java
 
-Full Stack Cloud ( AWS SAA certified ) developer.
+Full Stack Cloud ( AWS SAA certified | Hashicorp terraform 004 Associate certified ) developer.
 
 **Based in Auvergne-Rhône-Alpes**
 
